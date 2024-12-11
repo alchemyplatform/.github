@@ -1,5 +1,6 @@
 <!-- Banner Image -->
 # Alchemy
+![Alchemy Header](../header-image.png)
 
 ### Powerful APIs, SDKs, and tools to build and scale your web3 app with ease
 
